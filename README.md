@@ -17,10 +17,14 @@ Meu nome e Everaldo atualmente estou migrando para TI estudando Engenharia de Fr
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Flutter](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-Css-black?style=flat-square&logo=css)
+![jquery](https://img.shields.io/badge/-JQUERY-black?style=flat-square&logo=Qjquery)
+![Gulp](https://img.shields.io/badge/-GULP-black?style=flat-square&logo=gulp)
+![Grunt](https://img.shields.io/badge/-Grunt-black?style=flat-square&logo=grunt)
  
 
 </div>
