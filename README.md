@@ -20,7 +20,7 @@ Meu nome e Everaldo atualmente estou migrando para TI estudando Engenharia de Fr
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Flutter](https://img.shields.io/badge/-FLUTTER-black?style=flat-square&logo=flutter)
+![Flutter](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
  
 
 </div>
